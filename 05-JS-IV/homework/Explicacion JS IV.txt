@@ -1,0 +1,32 @@
+﻿1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 
+años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+Los objetos son un tipo de dato complejo. Es decir, es un dato que contiene otros datos que lo conforman. 
+
+
+	* Propiedades
+
+Las Propiedades son valores pertenecientes a un Objeto. Por ejemplo, si el Objeto fuese una persona, sus Propiedades serían el nombre, la edad, el peso, 
+etc. Estas propiedades funcionan parecido a los ínidices de un Array, pero en vez de ser numéricos, son de tipo String. 
+
+
+	* Métodos
+
+Los Métodos son funciones propias de un Objeto. Es decir, aquellas listas de órdenes que puede ejecutar el Objeto. En el mismo ejemplo de un Objeto persona,
+un Método podría ser comer, otro caminar, etc.  
+
+
+	* Bucle `for…in`
+
+El Bucle 'for in' es un tipo de Bucle For que va a ejecutar una lista de órdenes una vez por cada una de las Propiedades que tenga un óbjeto. Se compone por
+un índice, por ejemplo 'I', y un Objeto, como por ejemplo Persona. Entonces, el Bucle For In se construye de la siguiente manera: for (i in persona)
+
+
+	* Notación de puntos vs notación de corchetes
+
+Las Notaciones se utilizan para invocar una Propiedad o un Método. Siguiendo el ejemplo del Objeto persona, digamos que queremos hacerlo comer. Para invocar 
+ese Método podemos utilizar un punto (Notación de Puntos) de la siguiente manera: "Persona.comer". Otra opción sería utilizar corchetes (Notación de 
+Corchetes) de la sigueinte forma: "Persona['comer']". 
+La Notación de Corchetes te permite además poder invocar Variables. Siguiendo el ejemplo que venimos utilizando, si tuvieses una Variable "C" cuyo valor 
+fuese comer

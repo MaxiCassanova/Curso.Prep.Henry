@@ -1,0 +1,38 @@
+﻿1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 
+años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+	* Variables
+
+Una Variable es un dato, una información que usa la computadora para ejecutar sus distintas funciones. Las variables pueden ser tanto números, letras, 
+frases, etc., que ocupan un lugar en la memoria de la pc y que pueden ser modificadas, es decir que no es una información constante, por eso se llama 
+"variable", porque puede cambiar. 
+
+
+	* Strings
+
+El String es un tipo específico de variable que esta constituida por una cadena de caracteres. Puede ser una frase, una palabra, o cualquier tipo de 
+combinación, como por ejemplo letras y números. 
+
+
+	* Funciones (argumentos, `return`)
+
+Las Funciones son una lista de órdenes que se le dan a la computadora, que son previamente escritas, nombradas y definidas. Entonces, cuando se las 
+llama por su nombre, la computadora las reconoce y ejecuta esa lista de órdenes. 
+Un argumento es es una variable que se introduce al momento de llamar a una función, para que esta la use en su lista de órdenes según sea necesario. 
+Cuando introducimos un argumento, la lista de órdenes no se modifica, sino que se ejecuta a partir de los datos que son intruducidos a traves del 
+argumento. 
+El Return es una orden que le exije a la computadora que de esa lista de órdenes devuelva un dato de los que fueron trabajados en la función.
+
+
+	* Declaraciones `if`
+
+Las Declaraciones "if" son comparaciones entre dos o más datos. Su función es revisar la veracidad de esa comparación y en base a eso darle un conjunto 
+de órdenes a la computadora.
+
+
+	* Valores booleanos (`true`, `false`)
+
+Los Valores Booleanos son el tipo de dato que usa la computadora para comprobar la veracidad de una expresión u orden. Es tipo de dato binario, es decir, 
+compuesto por dos elementos, que son Verdadero ("True") o Falso ("False"). 
+

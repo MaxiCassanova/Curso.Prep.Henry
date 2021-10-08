@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un nino de 12 
+anos. Hacer esto te ayudara a descubrir rapidamente cualquier agujero en tu comprension.
+
+* Funciones Callback
+
+Una Funcion Callback es una Funcion que recibe como parametro otra Funcion. Por ejemplo, la Funcion 'forEach' ejecuta una Funcion pasada por parametros en 
+cada uno de los elementos de una Array que lo haya invocado, y a esa Funcion entonces se la denomina el Callback. 

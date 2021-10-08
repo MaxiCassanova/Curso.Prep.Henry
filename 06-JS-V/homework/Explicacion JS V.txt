@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un nino de 12 
+anos. Hacer esto te ayudara a descubrir rapidamente cualquier agujero en tu comprension.
+
+* `prototype`
+
+Un Prototype consiste en agrupar una serie de Metodos para que sean heredados de un Objeto a otro de menor jerarquia. 
+
+
+* _Constructors_ (de Clases)
+
+El Constructor de una Clase podria definirse como una fabrica de Objetos. Consiste en una Funcion a la que se le invoca para que retorne un Objeto de una 
+Clase especifica. Estos reciben una serie de parametros o se le pueden asignar desde el constructor por defecto, para que cree un Objeto llenando los 
+huecos que existan.

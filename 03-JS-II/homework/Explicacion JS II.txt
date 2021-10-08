@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+ como si se lo estuvieras explicando a un nino de 12 anos. 
+Hacer esto te ayudara a descubrir rapidamente cualquier agujero en tu comprension.
+
+
+* `for`
+
+El Ciclo "For" funciona como un bucle. Es decir que en el, la computadora ejecuta una lista de ordenes, que una vez
+completada, se repite la cantidad de veces que se definan previamente.
+
+
+
+* `&&`, `||`, `!`
+
+Estos conceptos son conectores logicos. `&&` es un conector de conjuncion y significa "y". `||` es un conector de 
+disyuncion y significa "o". `!` es un conector de negacion y significa "no". Se utilizan a la hora de comparar. 
+Permiten aportar precision a las comparaciones entre dos o mas datos. 
